@@ -1,0 +1,23 @@
+Stay Away License (SAL)
+Copyright © 2024 Arthur de Souza Manske
+
+I. Terminology:
+	For the purposes of this license, the term “Software” refers to the software and associated documentation files provided under this license.
+
+II. Permissions:
+	Permission is hereby granted, free of charge, to any person obtaining a copy of the Software, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+III. Conditions:
+	1. This license document must be included in all copies or substantial portions of the Software.
+	2. The copyright holder retains the rights to the Software and its substantial portions.
+	3. The name of the copyright holder may not be used to promote the Software without prior written permission.
+	4. For use of the Software in a manner that generates profit (e.g., revending the Software, providing subscriptions to access the Software, or any modifications of the Software), contact the copyright holder for written permission, which may include conditions such as taxes or royalties. Note:
+		a. Using the Software as part of a system that generates profit (e.g., running on a server) does not constitute generating profit from the Software and does not require permission or royalties.
+		b. Using a library licensed under this license within a commercial software product (whether statically or dynamically linked) is also not considered generating profit from the Software.
+	5. Any derived (modified) software code must be made available to the copyright holder.
+	
+IV. Warranty:
+	THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+V. Acceptance of Terms:
+	By using, modifying, redistributing, or viewing the source code of the Software (whether directly or indirectly), or by engaging in reverse engineering, you agree to be bound by the terms of this license.
