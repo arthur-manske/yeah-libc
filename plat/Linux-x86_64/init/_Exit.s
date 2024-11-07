@@ -3,6 +3,6 @@
 _exit:
 	movq $231, %rax
 	syscall
-.L0:	movq $60, %rax
+	movq $60, %rax
 	syscall
-	jmp .L0
+	jmp _exit
