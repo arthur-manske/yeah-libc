@@ -1,6 +1,8 @@
 .section .text
 .globl _start
 
+.extern _start_c
+
 _start:
 	xorq %rbp, %rbp
 	movq %rsp, %rdi

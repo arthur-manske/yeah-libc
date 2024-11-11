@@ -1,14 +1,14 @@
 #include <stdnoreturn.h>
 
+extern char **environ;
+
 noreturn void exit(int);
 void (*const __init_array_start)(void), (*const __init_array_end)(void);
 void _init(void);
 
-extern char **__environ;
-
 void __init_libc(char **envp, char *pnam)
 {
-	__environ = envp;
+	environ = envp;
 	return;	
 }
 
